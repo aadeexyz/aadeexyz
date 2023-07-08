@@ -33,7 +33,7 @@
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-(I'll add stuff as I remember it.)
+(I'll add stuff as I remember it. 😅)
 
 
 <!--
