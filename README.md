@@ -42,6 +42,6 @@
 (I'll add stuff as I remember them. 😅)
 
 ---
-### Explorer 🗺️
+### Profile Explorer 🗺️
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AadeeWasTaken&theme=blue-green)
