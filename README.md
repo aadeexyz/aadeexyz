@@ -44,4 +44,4 @@
 ---
 ### Profile Explorer 🗺️
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AadeeWasTaken&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aadeexyz&theme=blue-green)
