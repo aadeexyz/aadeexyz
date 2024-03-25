@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on... well, anything that doesn't involve debugging JavaScript at 3 am. 🌙
 - 🤔 Seeking Assistance. If anyone has a spare quantum computer or a time machine, don't hesitate to hit me up! 🕰️🚀
 - 💬 Ask me about my extensive collection of playing cards, it's more captivating than a royal flush! 🃏
-- 📫 How to reach me: Send a carrier pigeon or, failing that, DM me on [Twitter](https://twitter.com/AadeeWasTaken). 🕊️
+- 📫 How to reach me: Send a carrier pigeon or, failing that, DM me on [Twitter](https://twitter.com/aadeexyz). 🕊️
 - ⚡ Fun fact: Once tried to create a blockchain using the Ligma programming language. You haven't heard of it? 🙃
 
 ---
