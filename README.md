@@ -1,6 +1,6 @@
 # hi i'm aadee
 
-i'm building something cool for the readme, but for now this is what we have.
+i'm building something cool for the readme, but for now, this is what we have.
 
 ```js
 const me = {
